@@ -1,0 +1,11 @@
+com/example/marin/controller/UserController.class
+com/example/marin/aspect/LoggingAspect.class
+com/example/marin/service/UserService.class
+com/example/marin/repository/UserRepository.class
+com/example/marin/model/User.class
+com/example/marin/messaging/UserEventConsumer.class
+com/example/marin/service/impl/UserServiceImpl.class
+com/example/marin/marinSpringApplication.class
+com/example/marin/config/RabbitMQConfig.class
+com/example/marin/messaging/UserEventProducer.class
+com/example/marin/messaging/UserEvent.class

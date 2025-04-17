@@ -1,0 +1,11 @@
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/controller/UserController.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/marinSpringApplication.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/aspect/LoggingAspect.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/repository/UserRepository.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/messaging/UserEventConsumer.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/config/RabbitMQConfig.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/messaging/UserEvent.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/service/UserService.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/service/impl/UserServiceImpl.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/model/User.java
+/Users/leucirmarinjunior/Documents/github/natera_spring/src/main/java/com/example/marin/messaging/UserEventProducer.java
